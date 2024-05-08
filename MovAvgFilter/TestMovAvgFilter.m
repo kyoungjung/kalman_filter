@@ -1,7 +1,9 @@
 clear all
 
-Nsmaples = 500;
+Nsamples = 500;
+% 각 요소가 0인 500행 1열 행렬을 생성한다.
 Xsaved = zeros(Nsamples, 1);
+% 각 요소가 0인 500행 1열 행렬을 생성한다.
 Xmsaved = zeros(Nsamples, 1);
 
 
